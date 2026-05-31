@@ -1,4 +1,4 @@
-<h1 align="center">kartavya.dev</h1>
+<h1 align="center">K A R T A V Y A</h1>
 
 <p align="center">
   <strong>A Polymath Engineering Collective & Tech Agency</strong>
