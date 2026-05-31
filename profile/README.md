@@ -13,7 +13,7 @@
 
 ### Who We Are
 
-We are a collective of engineers 0coming from vast and diverse backgrounds in technology. United by our passion for building, we bring a wide spectrum of expertise to the table, allowing us to tackle complex problems from unique angles. 
+We are a collective of engineers coming from vast and diverse backgrounds in technology. United by our passion for building, we bring a wide spectrum of expertise to the table, allowing us to tackle complex problems from unique angles. 
 
 We are currently launching our agency brand, operating at the intersection of product engineering, modern design, and scalable infrastructure. 
 
